@@ -144,7 +144,7 @@ Don't use bitmap images... [use vector graphics] (http://martiancraft.com/blog/2
 
 ## Coding Style
 
-Follow the [Swift Style Guide](https://github.com/kvikas877/swift-style-guide).
+Follow the [Swift Style Guide](https://github.com/kvikas8/swift-style-guide/blob/master/README.md).
 
 ## Security
 
